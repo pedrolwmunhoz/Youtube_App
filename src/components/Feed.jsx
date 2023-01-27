@@ -27,7 +27,7 @@ const Feed = () => {
             />
             <Typography className = "copyright"
               variant="body2" sx={{ mt:1.5, color: "#ffff"}}>
-              Copyright 2023 Munhoz Media
+              Copyright 2023 Pedro Munhoz Media
             </Typography>
 
       </Box>
